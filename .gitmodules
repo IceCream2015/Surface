@@ -1,0 +1,6 @@
+[submodule "source/submodule/submodule1"]
+	path = source/submodule/submodule1
+	url = https://github.com/IceCream2015/submodule1.git
+[submodule "source/submodule/m1"]
+	path = source/submodule/m1
+	url = https://github.com/IceCream2015/submodule1.git
